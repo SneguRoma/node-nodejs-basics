@@ -1,4 +1,4 @@
-import { Worker, workerData } from "node:worker_threads";
+import { Worker } from "node:worker_threads";
 import os from "node:os";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
